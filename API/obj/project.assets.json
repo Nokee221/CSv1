@@ -557,6 +557,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.5",
           "Microsoft.EntityFrameworkCore.Sqlite": "5.0.5"
@@ -572,6 +573,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
           "Domain": "1.0.0",
           "MediatR.Extensions.Microsoft.DependencyInjection": "9.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.5",
@@ -1538,11 +1540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Kenan\\Documents\\CSv1\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Documents\\CSv1\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\Kenan\\Documents\\CSv1\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Kenan\\Documents\\CSv1\\API\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Documents\\CSv1\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1555,14 +1557,15 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\Kenan\\Documents\\CSv1\\Application\\Application.csproj": {
-              "projectPath": "c:\\Users\\Kenan\\Documents\\CSv1\\Application\\Application.csproj"
+            "C:\\Users\\Kenan\\Documents\\CSv1\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Application\\Application.csproj"
             }
           }
         }

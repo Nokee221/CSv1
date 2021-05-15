@@ -1291,11 +1291,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1308,6 +1308,7 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
