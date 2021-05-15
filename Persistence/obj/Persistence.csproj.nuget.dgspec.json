@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj": {}
+    "c:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj": {
+    "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -43,6 +43,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.5, )"
@@ -79,18 +87,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -103,15 +111,14 @@
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj"
+              "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj"
               }
             }
           }
@@ -126,6 +133,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.5, )"
@@ -162,7 +177,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
