@@ -1,10 +1,10 @@
 import { Activity } from './../models/activity';
 import axios, { AxiosResponse } from 'axios';
 
-const sleep = (deley: number) => {
+const sleep = (delay: number) => {
 
     return new Promise((resolve) => {
-        setTimeout(resolve , deley)
+        setTimeout(resolve , delay)
     })
 }
 

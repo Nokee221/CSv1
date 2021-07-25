@@ -1540,11 +1540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\Documents\\CSv1\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Documents\\CSv1\\api\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\api\\API.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\Documents\\CSv1\\API\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Documents\\CSv1\\api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1631,7 +1631,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }
