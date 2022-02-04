@@ -1307,21 +1307,17 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kenan\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Kenan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Documents\\GitHub\\CSv1\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Documents\\GitHub\\CSv1\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Documents\\GitHub\\CSv1\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
         "C:\\Users\\Kenan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -1337,8 +1333,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Kenan\\Documents\\CSv1\\Domain\\Domain.csproj"
+            "C:\\Users\\Kenan\\Documents\\GitHub\\CSv1\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Kenan\\Documents\\GitHub\\CSv1\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1397,7 +1393,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.205\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
